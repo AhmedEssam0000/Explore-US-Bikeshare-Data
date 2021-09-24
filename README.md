@@ -7,7 +7,7 @@ This Python script is written for Project 1 of Udacity's Data Analysis Professio
 You can run the script using a Python integrated development environment (IDE) such as VS Code. and use (PiP install) in terminal to install * Numpy , * Pandas to run this script without any problem , This script is written in Python 3, so you will need the Python 3.x version of the installer.
 
 # Datasets
-The datasets used for this script contain bike share data for the first six months of 2017. Some data wrangling has been performed by Udacity's staff before being provided to the students of DAND. Under the permission of Udacity, I have uploaded a copy of the datasets [here](https://drive.google.com/drive/u/0/folders/1TUDd7wuEG49a3aTsc2Z7oPjCKCM_EwTX). The file sizes are too big to be uploaded on GitHub, so they were uploaded on Google Drive instead. After downloading the datasets, place them in the same folder with this Python script.
+The datasets used for this script contain bike share data for the first six months of 2017. Some data wrangling has been performed by Udacity's staff before being provided to the students of DAND. Under the permission of Udacity, I have uploaded a copy of the datasets [here](https://drive.google.com/drive/folders/1TUDd7wuEG49a3aTsc2Z7oPjCKCM_EwTX?usp=sharing). The file sizes are too big to be uploaded on GitHub, so they were uploaded on Google Drive instead. After downloading the datasets, place them in the same folder with this Python script.
 
 The data files for all three cities contain the same six columns:
 
